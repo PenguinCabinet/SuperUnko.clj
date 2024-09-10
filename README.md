@@ -58,7 +58,7 @@ Parallel: "Elapsed time: 1468.002301 msecs"
 
 
 ### 組体操オプション
-`-k`,`--kumitaisou`オプションで並列処理を行います。    
+`-k`,`--kumitaisou`オプションで組体操になります。    
 Unkoが苦手はこちらをどうぞ。
 ```bash
 lein run -m superunko.clj -k 5
